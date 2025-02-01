@@ -1,0 +1,13 @@
+tipo:Extra:50000:200.0
+tipo:Corriente:30000:100.0
+tipo:Diesel:20000:120.0
+tipo:Premium:70000:80.0
+surtidor:Danna Puerto Zapata:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+surtidor:Santiago Rojas Castro:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+surtidor:Diego Castillo Correa:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+surtidor:Danna Puerto Zapata:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+empleado:Danna Puerto Zapata:0
+empleado:Diego Castillo Correa:0
+empleado:Javier Fernandez Perez:0
+empleado:Santiago Rojas Castro:0
+empleado:Sara Catalina Segunda De Las Mercedes Maria Castaño Castaño:0
